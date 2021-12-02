@@ -13,7 +13,7 @@
 		learn outside of the classroom as well.
   
   
- 🗨️      I'm learning, but I love to find a mentor, collaborate, or chat about tech. Here's where you can find me:<br>
+ 🗨️      I'm learning, but I love to collaborate. Here's where you can find me:<br>
           🖱️  Website: https://www.ndrwriter.ca
           📧 Email: github@ndrwriter.ca
           👱‍♀️ DISCORD :  IndyR#4896
