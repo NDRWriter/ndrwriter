@@ -4,13 +4,11 @@
 	<center> 🇺🇸 🇨🇦 👩‍🎓 ♀️ 👩‍👧‍👦 📔</center><br>
 	
 	
-	🧭      I am a 🦕 who went to 🏫 for Instrumentation and Control Tech in 1️⃣9️⃣9️⃣9️⃣, but now I'm going back to finish with CS at 40.
-          In addition, I'm also a sole-proprietor/freelancer (Est.2014) pursuing my love of writing, web accessibility, and technology. 
-          Bad puns and sci-fi references are always encouraged.
-          
+	<p>In 1999 I went to school for Instrumentation & Control Technology, took some tech support roles, but I didn't want to work strictly with hardware and coding wasn't a formal education option in my area. I used my skills for office administration and finance, eventually opening my own B2B consulting and tax business. </p>
 	
-	📆      Recently I was given the opportunity to finish my degree and work on some passion projects, so I'm participating in #100DaysOfCode and seeing how much I can   	
-		learn outside of the classroom as well.
+	<p>When I turned 40, I realized I put in long hours for work that I enjoyed, but wasn't really passionate about. That day, I set a goal to cut down on tasks that weren't tech related, build my coding skills, and complete my education. Between 2020-2021, I brushed up on HTML and CSS skills, cut down my work load, registered for classes, and completed some online certifications to refresh my existing knowledge and learn new skills. I joined Tech Twitter, ZTM, networked with other tech professionals, and reignited my love of code, despite being waitlisted for a year from formal education.</p>
+	
+	<p>Now it's 2022 and I'm self-employed, have two children in virtual school, I'm starting formal education in the fall, and I'm committing the next two years to following my dreams to do what I love full time.</p>
   
   
  🗨️      I'm learning, but I love to collaborate. Here's where you can find me:<br>
